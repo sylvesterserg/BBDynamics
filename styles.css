@@ -1,0 +1,44 @@
+/* Styles for BlackBox Dynamics */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0A0A0A;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.navbar {
+    background: #111111;
+    padding: 20px;
+}
+
+.hero {
+    padding: 60px 0;
+    background: #1A1A1A;
+}
+
+.cta-button {
+    background: #00FFFF;
+    color: #000000;
+    padding: 15px 30px;
+    border: none;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.about, .services, .contact {
+    padding: 40px 0;
+    background: #222222;
+}
+
+footer {
+    background: #000000;
+    padding: 20px 0;
+}
